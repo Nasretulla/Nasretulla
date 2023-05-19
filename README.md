@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Nasrat</h1>
 <h3 align="center">A passionate full-stack developer student from Finland</h3>
 
-- 🌱 I’m currently learning **C#|Python|React|HTML5|CSS3**
+- 🌱 I’m currently learning **C# |Python |React |HTML5 |CSS3**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
