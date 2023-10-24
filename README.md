@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasrat</h1>
-<h3 align="center">A passionate full-stack developer student from Finland</h3>
+<h3 align="center">A passionate fullstack developer student</h3>
 
 - 🌱 I’m currently learning ** C# |Python |React |HTML5 |CSS3 | Javascript**
 
